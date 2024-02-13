@@ -1,0 +1,4 @@
+---
+# Specific values just for Nexus 
+
+ansible_network_os: "nxos"
