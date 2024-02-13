@@ -2,3 +2,11 @@
 # Specific values just for Nexus 
 
 ansible_network_os: "nxos"
+
+enabled_features: 
+ - vpc 
+ - nxapi 
+ - interface-vlan 
+ - lacp 
+ - ldap
+

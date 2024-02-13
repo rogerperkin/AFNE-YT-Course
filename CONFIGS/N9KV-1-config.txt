@@ -1,0 +1,11 @@
+
+hostname N9KV-1
+
+feature vpc 
+feature nxapi 
+feature interface-vlan 
+feature lacp 
+feature ldap 
+
+ntp server 1.1.1.1
+ntp server 2.2.2.2

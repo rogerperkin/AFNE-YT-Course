@@ -2,4 +2,5 @@
 
 [nexus]
 N9KV-1 ansible_host=192.168.1.150
+N9KV-2 ansible_host=192.168.1.151
 

@@ -1,0 +1,8 @@
+---
+- name: Config Template Playbook 
+  hosts: nexus 
+  tasks: 
+    - template: 
+        src: template1.j2 
+        dest: ./CONFIGS/{{ inventory_hostname }}-config.txt
+
