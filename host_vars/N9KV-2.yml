@@ -1,7 +1,6 @@
 
 hostname: N9KV-2
 
-host_enabled_features: 
-  - l2vpn 
-  - l3vpn 
+
+
 
